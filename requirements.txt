@@ -6,3 +6,4 @@ uvicorn==0.35.0
 pydantic==2.12.5
 joblib==1.5.3
 imbalanced-learn==0.14.2
+matplotlib
